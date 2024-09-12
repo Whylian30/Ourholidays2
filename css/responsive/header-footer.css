@@ -1,0 +1,85 @@
+@media  screen and (max-width: 1106px) {  
+    header .container .menu a{
+        margin: 0px 40px;
+    }
+    
+}
+@media  screen and (max-width: 946px) {
+    header .container .menu a{
+        margin: 0px 20px;
+  }
+}
+@media  screen and (max-width: 796px) {
+    .container {
+        margin: 0px 40px;}
+    .d-flex {
+        justify-content: left;
+    } 
+    
+}
+@media  screen and (max-width: 667px) {
+    header .container .menu a {
+        font-size: 14px;
+    }
+}
+@media  screen and (max-width: 570px) {
+    .container {
+        margin: 0px 20px;
+    }
+}
+@media  screen and (max-width: 531px) {
+    header .container .menu a{
+        margin: 0px 10px;}
+}
+@media  screen and (max-width: 451px) {
+    header .container .menu a{
+        margin: 0px 5px;}
+}
+@media  screen and (max-width: 570px) {
+    .container {
+        margin: 0px 5px;
+    }
+}
+@media  screen and (max-width: 382px) {
+    header .container .menu a{
+        margin: 0px 10px;
+    }
+    header .container .menu a {
+        font-size: 10px;
+    }
+ 
+}
+@media  screen and (max-width: 347px) {
+    header .container .menu a{
+        margin: 0px 3px;
+    }
+}
+@media  screen and (max-width: 1565px) {
+    footer .right .d-flex .box {
+        margin: 0px 5px;
+    }
+    footer .right > div { 
+        margin-left: 50px;
+    }
+}
+@media  screen and (max-width: 1150px) {
+footer .left nav a {
+    margin-left: 100px;
+    }
+}
+@media  screen and (max-width: 898px) {
+    footer .container {
+        flex-wrap: wrap;
+        }
+}
+@media screen and (max-width: 486px) {
+        footer .right > div {
+            display: block;
+        }
+}    
+@media screen and (max-width: 747px) {
+    footer .right {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}    
