@@ -1,0 +1,128 @@
+.half-multimedia{
+    padding: 40px 0px;
+    
+}
+.container .block2 .menu2 a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: #4b4b4e;
+    margin-right: 70px; 
+    
+    
+
+}
+.container .block2 .menu2{
+    display: inline-block;
+    height: 20%;
+    justify-content: end;
+    align-items: center;
+}
+.d-flex2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+main .container .block2 .menu2 a:hover
+{
+ color: rgba(207, 128, 10, 0.74); 
+ padding-bottom: 7px;
+ border-bottom: 3px solid rgba(207, 128, 10, 0.74)
+}
+
+
+main .container3 .block3{
+    display: flex;
+    padding-top: 50px;
+    font-size: 1.4rem;
+    color: #4b4b4e;
+    font-weight: bold;
+    border-bottom: 5px solid rgba(138, 136, 135, 0.74) ;
+    height: 169px;
+    width: 600px;
+    margin-bottom: 20px;
+
+    
+}
+
+main .container3 {
+    width: 50%;
+    align-items: center;
+
+}
+.d-flex3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    padding-top: 70px;
+}
+.half-multimedia .where h3{
+    padding-bottom: 40px;
+    color: #4b4b4e;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+.d-flex4{
+    display: flex   ;
+    justify-content: left;
+    align-content: center;
+}
+.container3 .block3 h3{
+    padding-bottom: 40px;
+    color: #24828f;
+    font-size: 1.2rem;
+    font-weight: bold;
+    
+
+}
+.where img {
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+
+}
+.half-multimedia .where img {
+    position: relative;
+    top: 16px;
+    right: 15px;
+
+}
+.block3 h2{
+font-size: 1.3rem;
+padding-left: 50px;
+color: #097887;
+padding-bottom: 30px;
+}
+.container3 .block3 h3{
+    padding-bottom: 40px;
+    color: #24828f;
+    font-size: 1.2rem;
+    font-weight: bold;
+} 
+.container3 .block3 h4{
+    color: #24828f;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.container3 .block3 h5{
+    color: #24828f;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding-left: 50px;
+}
+.container3 .block3 a .butt{
+    width: 500px;
+    height: 50px;
+    background-color: #097887;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    border-width: 2px;
+    border-radius: 100px;
+}
+.container3 .block3 .location a{
+   text-decoration: none;
+   font-family: sans-serif;
+   font-size: 1.2rem;
+   color: #ffffff;
+}

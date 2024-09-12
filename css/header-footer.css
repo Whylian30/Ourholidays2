@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+Body {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+width: 100%;
+background-color: rgba(209, 189, 97, 0.226) ;
+
+}
+.container-fluid {
+    width: 100%;
+}
+.container {
+    max-width: 1600px;
+    margin: 0px 0px 0px 100px;
+
+  
+}
+.d-flex { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+main .container .title { 
+    margin-left: 35%;
+}
+header > .container{
+    padding: 44px 0px;
+}
+header .container .menu a {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #4b4b4e;
+    margin: 0 60px;
+    justify-content: center;
+}
+header .container .menu a:hover,
+header .container .menu a.active 
+{
+ color: rgba(207, 128, 10, 0.74); 
+ font-weight: 900;
+ padding-bottom: 7px;
+ border-bottom: 3px solid rgba(207, 128, 10, 0.74)
+}
+footer {
+    background-color: #4b4b4e;
+    padding-top: 50px;
+
+
+}
+footer .left figure figcaption {
+    color: #bbb6a2;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 20px;
+    
+}
+footer .left nav a {
+    display: block;
+    font-size: 1.2em;
+    color: #bbb6a2;
+    margin-bottom: 30px;
+    margin-left: 400px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+footer .left nav a:hover, footer .left nav a:active {
+color: rgba(207, 128, 10, 0.74);
+font-weight: 900;
+}
+footer .right .d-flex .box {
+    width: 50px;
+    height: 50px;
+    display: inline-block!important;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+footer .right .d-flex .inst {
+    background: url('../images/inst-removebg-preview.png')no-repeat;
+    background-size: cover;
+    background-color:  none;
+}
+footer .right > div{
+    text-align: start;
+    color: #bbb6a2;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 25px;
+    margin-left: 300px;
+    display: block;
+    
+}
+footer .container{
+    align-items: flex-start;
+}
+footer .right .inst:hover {
+    background: url('../images/rounded-in-photoretrica.png')no-repeat;
+    background-size: cover;
+    background-color:  none;
+}
+footer .right .d-flex .inst2 {
+    background: url('../images/inst-removebg-preview.png')no-repeat;
+    background-size: cover;
+    background-color:  none;
+}
+footer .right .inst2:hover {
+    background: url('../images/rounded-in-photoretrica.png')no-repeat;
+    background-size: cover;
+    background-color:  none;
+}footer .right .d-flex .tg {
+    background: url('../images/images-removebg-preview-removebg-preview.png')no-repeat;
+    background-size: cover;
+    background-color:  none;
+}
+footer .right .tg:hover {
+    background: url('../images/images222-removebg-preview-removebg-preview.png')no-repeat;
+    background-size: cover;
+    background-color:  none;
+}
+main .container .title {
+    font-size: 2em;
+    font-weight: bold;
+    color:#4b4b4e 
+}
+.container2 {
+    width: 100%;
+}

@@ -1,0 +1,142 @@
+.block1 {
+    justify-content: left;
+    align-items: flex-start;
+    
+}
+.block1 .menu {
+    width: 800px;
+    
+}
+.block1 .menu a{
+    display: block;
+    text-decoration: none;
+    color: #4b4b4e;
+    font-size: 1.4em;
+    margin-bottom: 20px;
+    padding: 15px 25px;
+    margin: 0px 0px 0px 30px; 
+
+  
+}
+.block1 .menu a:hover,
+.block1 .menu a.active {
+    color: white;
+    background-color: rgba(207, 128, 10, 0.74);
+    padding: 10px 15px;
+    border-radius: 50px;
+    border-bottom: 3px solid rgba(207, 128, 10, 0.74);
+   
+}.block1 .menu a.active {margin-bottom: 10px!important;}
+main .block1 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.block1 .items .boxes1 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+   
+}
+.block1 .items .boxes1 .box{
+    padding-left: 50px;
+}
+
+.box figure figcaption p {
+    padding-left: 60px;
+  flex-wrap: wrap;
+    color: #4b4b4e;
+}
+.box figure Figcaption p {
+    font-size: 1.4em;
+    margin-bottom: 50px;
+    margin-top: 25px;
+    font-weight: 600;
+    cursor: default;
+}
+.block1 .conti {
+    justify-content: left!important;
+    align-items: center!important;
+}
+.block1 .items .boxes2 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+   
+}
+.block1 .items .boxes2 .box{
+    padding-left: 50px;
+}
+.block1 .items .boxes3 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+.block1 .items .boxes4 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+.block1 .items .boxes5 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+.block1 .items .boxes6 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+.block1 .items .boxes7 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+.block1 .items .boxes8 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+}
+.block1 .items .boxes9 {
+    flex-wrap: wrap;
+   margin-left: 40px;
+   display: flex;
+   justify-content: left;
+   align-items: center;
+} 
+.block1 .items .boxes3 .box{
+    padding-left: 50px;
+}
+.block1 .items .boxes4 .box{
+    padding-left: 50px;
+}
+.block1 .items .boxes5 .box{
+    padding-left: 50px;
+}
+.block1 .items .boxes6 .box{
+    padding-left: 50px;
+}
+.block1 .items .boxes7 .box{
+    padding-left: 50px;
+}
+.block1 .items .boxes8 .box{
+    padding-left: 50px;
+}
+.block1 .items .boxes9 .box{
+    padding-left: 50px;
+}
